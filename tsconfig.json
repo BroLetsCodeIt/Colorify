@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5", //jo bhi code likenge es6 mai vo convert ho jayega es5 mai
+        "module": "CommonJS",
+        "declaration": true,
+        "outDir": "./lib",
+        "strict": true,
+    },
+    "include": ["src"],
+    "exclude": ["node_modules","**/__tests__/*"]
+}
