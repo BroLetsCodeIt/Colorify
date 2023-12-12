@@ -3,6 +3,7 @@
 ## How to use it
 
 ```sh
-npm i <package_name>
+npm i nexuscode-colorify-console
 ```
+
 
